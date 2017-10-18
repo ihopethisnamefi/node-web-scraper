@@ -1,45 +1,21 @@
-var express = require('express');
-var fs      = require('fs');
-var request = require('request');
-var cheerio = require('cheerio');
-var app     = express();
+let axios = require('axios');
+let cheerio = require('cheerio');
 
-app.get('/scrape', function(req, res){
-  // Let's scrape Anchorman 2
-  url = 'http://www.imdb.com/title/tt1229340/';
+let base_url = 'http://games.espn.com/ffl/standings?leagueId=164548&seasonId=2017';
 
-  request(url, function(error, response, html){
-    if(!error){
-      var $ = cheerio.load(html);
+axios.get(base_url).then( (response) => {
+  let $ = cheerio.load(response.data);
+  let users = [];
+  $('.tableBody [bgcolor=#f2f2e8], .tableBody [bgcolor=#f8f8f2]').each( (i, elm) => {
+    users.push( {
+      team: $(elm).children().first().children().attr('title'),
+      wins: $(elm).children().eq(1).first().text(),
+      losses: $(elm).children().eq(2).first().text(),
+    });
+  });
 
-      var title, release, rating;
-      var json = { title : "", release : "", rating : ""};
-
-      $('.title_wrapper').filter(function(){
-        var data = $(this);
-        title = data.children().first().text().trim();
-        release = data.children().last().children().last().text().trim();
-
-        json.title = title;
-        json.release = release;
-      })
-
-      $('.ratingValue').filter(function(){
-        var data = $(this);
-        rating = data.text().trim();
-
-        json.rating = rating;
-      })
-    }
-
-    fs.writeFile('output.json', JSON.stringify(json, null, 4), function(err){
-      console.log('File successfully written! - Check your project directory for the output.json file');
-    })
-
-    res.send('Check your console!')
-  })
+  return(users);
 })
-
-app.listen('8081')
-console.log('Magic happens on port 8081');
-exports = module.exports = app;
+.then ( (users) => {
+  console.log(users);
+});
