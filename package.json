@@ -1,0 +1,16 @@
+{
+  "name"         : "node-web-scrape",
+  "version"      : "0.0.1",
+  "description"  : "Scrape espn fantasy football leagues.",
+  "main"         : "server.js",
+  "author"       : "Jon Thibeault",
+  "repository"   : {
+    "type" : "git",
+    "url"  : "https://github.com/ihopethisnamefi/node-web-scraper"
+  },
+  "dependencies" : {
+    "express"    : "latest",
+    "request"    : "latest",
+    "cheerio"    : "latest"
+  }
+}
