@@ -1,2 +1,3 @@
 http://games.espn.com/ffl/standings?leagueId=164548&seasonId=2017
 http://games.espn.com/ffl/standings?leagueId=164569&seasonId=2017
+http://games.espn.com/ffl/standings?leagueId=164598&seasonId=2017

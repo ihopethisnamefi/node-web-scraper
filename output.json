@@ -1,5 +1,1978 @@
-{
-    "team": "THREE MENTEAM, OWNER(S)PFPAHOMEAWAYDIVSTREAKMother of Broken TEs (Samantha Kuhn)589.2571.83-2-01-0-02-1-0L1Dezpacito . (Zain Mithani)570.6567.32-2-02-0-03-0-0W1Teach Me Guru (Jeremy hsu)520.9586.82-1-00-3-01-2-0W1When I cum, I Philip Rivers (Ryan Gregurek)548.9634.11-2-00-3-00-3-0W1",
-    "wins": "",
-    "losses": ""
-}
+[
+    {
+        "year": "2017",
+        "teams": [
+            {
+                "team": "Safe For Work Boys (billy juch)",
+                "finalrank": "",
+                "wins": "5",
+                "losses": "1",
+                "pf": "694.2",
+                "pa": "618.1"
+            },
+            {
+                "team": "DIGGS OUT FOR  HARAMBE (matt bui)",
+                "finalrank": "",
+                "wins": "4",
+                "losses": "2",
+                "pf": "667.8",
+                "pa": "601"
+            },
+            {
+                "team": "Bad and  Boujayi (Jon Thibeault)",
+                "finalrank": "",
+                "wins": "3",
+                "losses": "3",
+                "pf": "563.4",
+                "pa": "558.4"
+            },
+            {
+                "team": "Miss Korea (Hal Peters)",
+                "finalrank": "",
+                "wins": "2",
+                "losses": "4",
+                "pf": "578.4",
+                "pa": "635.9"
+            },
+            {
+                "team": "Fantasy Football Guru (Luan Nguyen)",
+                "finalrank": "",
+                "wins": "5",
+                "losses": "1",
+                "pf": "616.1",
+                "pa": "561.9"
+            },
+            {
+                "team": "look wat u made me drew. (Pau Pau)",
+                "finalrank": "",
+                "wins": "3",
+                "losses": "3",
+                "pf": "660.3",
+                "pa": "655.8"
+            },
+            {
+                "team": "HAAALLLPPP !!!!! (Michael Nguyen)",
+                "finalrank": "",
+                "wins": "2",
+                "losses": "4",
+                "pf": "659.6",
+                "pa": "589.8"
+            },
+            {
+                "team": "The Bus Driver (Ronny Kwon)",
+                "finalrank": "",
+                "wins": "1",
+                "losses": "5",
+                "pf": "611.2",
+                "pa": "700.5"
+            },
+            {
+                "team": "Mother of Broken TEs (Samantha Kuhn)",
+                "finalrank": "",
+                "wins": "4",
+                "losses": "2",
+                "pf": "589.1",
+                "pa": "571.8"
+            },
+            {
+                "team": "Dezpacito . (Zain Mithani)",
+                "finalrank": "",
+                "wins": "4",
+                "losses": "2",
+                "pf": "570.6",
+                "pa": "567.3"
+            },
+            {
+                "team": "Teach Me Guru (Jeremy hsu)",
+                "finalrank": "",
+                "wins": "2",
+                "losses": "4",
+                "pf": "520.9",
+                "pa": "586.8"
+            },
+            {
+                "team": "When I cum, I Philip Rivers (Ryan Gregurek)",
+                "finalrank": "",
+                "wins": "1",
+                "losses": "5",
+                "pf": "549.9",
+                "pa": "634.1"
+            }
+        ]
+    }
+][
+    {
+        "year": "2014",
+        "teams": [
+            {
+                "team": "Keep Calm With MEGATRON (Luan Nguyen)",
+                "finalrank": "1",
+                "record": "8-5",
+                "pf": "1381.2",
+                "pa": "1264"
+            },
+            {
+                "team": "Dome Baby (Jon Thibeault)",
+                "finalrank": "2",
+                "record": "11-2",
+                "pf": "1540.7",
+                "pa": "1227.3"
+            },
+            {
+                "team": "The Bus Driver (Ronny Kwon)",
+                "finalrank": "3",
+                "record": "8-5",
+                "pf": "1308.9",
+                "pa": "1246.1"
+            },
+            {
+                "team": "In School Suspension (jeff Klein, Ryan Gregurek)",
+                "finalrank": "4",
+                "record": "8-5",
+                "pf": "1308.1",
+                "pa": "1330.3"
+            },
+            {
+                "team": "2 Cds (billy juch)",
+                "finalrank": "5",
+                "record": "7-6",
+                "pf": "1397.6",
+                "pa": "1299.7"
+            },
+            {
+                "team": "Third Down For What (Jeremy hsu)",
+                "finalrank": "6",
+                "record": "7-6",
+                "pf": "1278.2",
+                "pa": "1278.9"
+            },
+            {
+                "team": "Miss Korea (Hal Peters)",
+                "finalrank": "7",
+                "record": "5-8",
+                "pf": "1325.8",
+                "pa": "1448.8"
+            },
+            {
+                "team": "YOU'RE STILL MY BITCH (Michael Nguyen)",
+                "finalrank": "8",
+                "record": "7-6",
+                "pf": "1356.2",
+                "pa": "1286.3"
+            },
+            {
+                "team": "IT'S COMEBACK TIME (Matthew Lum)",
+                "finalrank": "9",
+                "record": "6-7",
+                "pf": "1378",
+                "pa": "1249.6"
+            },
+            {
+                "team": "REGGIE ON MY BUSH (matt bui)",
+                "finalrank": "10",
+                "record": "1-12",
+                "pf": "1083.4",
+                "pa": "1403.8"
+            },
+            {
+                "team": "Show Me Your TDs (Samantha Kuhn)",
+                "finalrank": "11",
+                "record": "5-8",
+                "pf": "1159.4",
+                "pa": "1297.3"
+            },
+            {
+                "team": "Surrounded By Chinamen (Vijan Patel)",
+                "finalrank": "12",
+                "record": "5-8",
+                "pf": "1266.7",
+                "pa": "1452.2"
+            }
+        ]
+    }
+][
+    {
+        "year": "2014",
+        "teams": [
+            {
+                "team": "Keep Calm With MEGATRON (Luan Nguyen)",
+                "finalrank": "1",
+                "record": "8-5",
+                "pf": "1381.2",
+                "pa": "1264"
+            },
+            {
+                "team": "Dome Baby (Jon Thibeault)",
+                "finalrank": "2",
+                "record": "11-2",
+                "pf": "1540.7",
+                "pa": "1227.3"
+            },
+            {
+                "team": "The Bus Driver (Ronny Kwon)",
+                "finalrank": "3",
+                "record": "8-5",
+                "pf": "1308.9",
+                "pa": "1246.1"
+            },
+            {
+                "team": "In School Suspension (jeff Klein, Ryan Gregurek)",
+                "finalrank": "4",
+                "record": "8-5",
+                "pf": "1308.1",
+                "pa": "1330.3"
+            },
+            {
+                "team": "2 Cds (billy juch)",
+                "finalrank": "5",
+                "record": "7-6",
+                "pf": "1397.6",
+                "pa": "1299.7"
+            },
+            {
+                "team": "Third Down For What (Jeremy hsu)",
+                "finalrank": "6",
+                "record": "7-6",
+                "pf": "1278.2",
+                "pa": "1278.9"
+            },
+            {
+                "team": "Miss Korea (Hal Peters)",
+                "finalrank": "7",
+                "record": "5-8",
+                "pf": "1325.8",
+                "pa": "1448.8"
+            },
+            {
+                "team": "YOU'RE STILL MY BITCH (Michael Nguyen)",
+                "finalrank": "8",
+                "record": "7-6",
+                "pf": "1356.2",
+                "pa": "1286.3"
+            },
+            {
+                "team": "IT'S COMEBACK TIME (Matthew Lum)",
+                "finalrank": "9",
+                "record": "6-7",
+                "pf": "1378",
+                "pa": "1249.6"
+            },
+            {
+                "team": "REGGIE ON MY BUSH (matt bui)",
+                "finalrank": "10",
+                "record": "1-12",
+                "pf": "1083.4",
+                "pa": "1403.8"
+            },
+            {
+                "team": "Show Me Your TDs (Samantha Kuhn)",
+                "finalrank": "11",
+                "record": "5-8",
+                "pf": "1159.4",
+                "pa": "1297.3"
+            },
+            {
+                "team": "Surrounded By Chinamen (Vijan Patel)",
+                "finalrank": "12",
+                "record": "5-8",
+                "pf": "1266.7",
+                "pa": "1452.2"
+            }
+        ]
+    },
+    {
+        "year": "2012",
+        "teams": [
+            {
+                "team": "Heis Manziel (Matt Leal)",
+                "finalrank": "1",
+                "record": "8-5",
+                "pf": "1497.6",
+                "pa": "1298.8"
+            },
+            {
+                "team": "Best things in  life are earned (billy juch)",
+                "finalrank": "2",
+                "record": "7-6",
+                "pf": "1317.4",
+                "pa": "1238.2"
+            },
+            {
+                "team": "Breesus Christ (Jeremy hsu)",
+                "finalrank": "3",
+                "record": "10-3",
+                "pf": "1506.2",
+                "pa": "1290.6"
+            },
+            {
+                "team": "The Real McCoy (Luan Nguyen)",
+                "finalrank": "4",
+                "record": "8-5",
+                "pf": "1407.2",
+                "pa": "1399.8"
+            },
+            {
+                "team": "DON'T NUGENT INSIDE OF ME (matt bui)",
+                "finalrank": "5",
+                "record": "7-6",
+                "pf": "1270.6",
+                "pa": "1442"
+            },
+            {
+                "team": "Arian Master Race (Jon Thibeault)",
+                "finalrank": "6",
+                "record": "7-6",
+                "pf": "1355.6",
+                "pa": "1260.2"
+            },
+            {
+                "team": "Nigga Please (jeff Klein)",
+                "finalrank": "7",
+                "record": "5-8",
+                "pf": "1221",
+                "pa": "1373.8"
+            },
+            {
+                "team": "Romosexual Tendencies (Hal Peters)",
+                "finalrank": "8",
+                "record": "7-6",
+                "pf": "1347.2",
+                "pa": "1328.8"
+            },
+            {
+                "team": "IT'S COMEBACK TIME (Michael Nguyen)",
+                "finalrank": "9",
+                "record": "6-7",
+                "pf": "1325.8",
+                "pa": "1403"
+            },
+            {
+                "team": "Wait Till You See My Vick (Vijan Patel)",
+                "finalrank": "10",
+                "record": "4-9",
+                "pf": "1278.2",
+                "pa": "1250.4"
+            },
+            {
+                "team": "Jungle Fever (Elton Wong)",
+                "finalrank": "11",
+                "record": "4-9",
+                "pf": "1296.4",
+                "pa": "1403.2"
+            },
+            {
+                "team": "Show Me Your TDs (Samantha Kuhn)",
+                "finalrank": "12",
+                "record": "5-8",
+                "pf": "1124.2",
+                "pa": "1258.6"
+            }
+        ]
+    }
+][
+    {
+        "year": "2014",
+        "teams": [
+            {
+                "team": "Keep Calm With MEGATRON (Luan Nguyen)",
+                "finalrank": "1",
+                "record": "8-5",
+                "pf": "1381.2",
+                "pa": "1264"
+            },
+            {
+                "team": "Dome Baby (Jon Thibeault)",
+                "finalrank": "2",
+                "record": "11-2",
+                "pf": "1540.7",
+                "pa": "1227.3"
+            },
+            {
+                "team": "The Bus Driver (Ronny Kwon)",
+                "finalrank": "3",
+                "record": "8-5",
+                "pf": "1308.9",
+                "pa": "1246.1"
+            },
+            {
+                "team": "In School Suspension (jeff Klein, Ryan Gregurek)",
+                "finalrank": "4",
+                "record": "8-5",
+                "pf": "1308.1",
+                "pa": "1330.3"
+            },
+            {
+                "team": "2 Cds (billy juch)",
+                "finalrank": "5",
+                "record": "7-6",
+                "pf": "1397.6",
+                "pa": "1299.7"
+            },
+            {
+                "team": "Third Down For What (Jeremy hsu)",
+                "finalrank": "6",
+                "record": "7-6",
+                "pf": "1278.2",
+                "pa": "1278.9"
+            },
+            {
+                "team": "Miss Korea (Hal Peters)",
+                "finalrank": "7",
+                "record": "5-8",
+                "pf": "1325.8",
+                "pa": "1448.8"
+            },
+            {
+                "team": "YOU'RE STILL MY BITCH (Michael Nguyen)",
+                "finalrank": "8",
+                "record": "7-6",
+                "pf": "1356.2",
+                "pa": "1286.3"
+            },
+            {
+                "team": "IT'S COMEBACK TIME (Matthew Lum)",
+                "finalrank": "9",
+                "record": "6-7",
+                "pf": "1378",
+                "pa": "1249.6"
+            },
+            {
+                "team": "REGGIE ON MY BUSH (matt bui)",
+                "finalrank": "10",
+                "record": "1-12",
+                "pf": "1083.4",
+                "pa": "1403.8"
+            },
+            {
+                "team": "Show Me Your TDs (Samantha Kuhn)",
+                "finalrank": "11",
+                "record": "5-8",
+                "pf": "1159.4",
+                "pa": "1297.3"
+            },
+            {
+                "team": "Surrounded By Chinamen (Vijan Patel)",
+                "finalrank": "12",
+                "record": "5-8",
+                "pf": "1266.7",
+                "pa": "1452.2"
+            }
+        ]
+    },
+    {
+        "year": "2012",
+        "teams": [
+            {
+                "team": "Heis Manziel (Matt Leal)",
+                "finalrank": "1",
+                "record": "8-5",
+                "pf": "1497.6",
+                "pa": "1298.8"
+            },
+            {
+                "team": "Best things in  life are earned (billy juch)",
+                "finalrank": "2",
+                "record": "7-6",
+                "pf": "1317.4",
+                "pa": "1238.2"
+            },
+            {
+                "team": "Breesus Christ (Jeremy hsu)",
+                "finalrank": "3",
+                "record": "10-3",
+                "pf": "1506.2",
+                "pa": "1290.6"
+            },
+            {
+                "team": "The Real McCoy (Luan Nguyen)",
+                "finalrank": "4",
+                "record": "8-5",
+                "pf": "1407.2",
+                "pa": "1399.8"
+            },
+            {
+                "team": "DON'T NUGENT INSIDE OF ME (matt bui)",
+                "finalrank": "5",
+                "record": "7-6",
+                "pf": "1270.6",
+                "pa": "1442"
+            },
+            {
+                "team": "Arian Master Race (Jon Thibeault)",
+                "finalrank": "6",
+                "record": "7-6",
+                "pf": "1355.6",
+                "pa": "1260.2"
+            },
+            {
+                "team": "Nigga Please (jeff Klein)",
+                "finalrank": "7",
+                "record": "5-8",
+                "pf": "1221",
+                "pa": "1373.8"
+            },
+            {
+                "team": "Romosexual Tendencies (Hal Peters)",
+                "finalrank": "8",
+                "record": "7-6",
+                "pf": "1347.2",
+                "pa": "1328.8"
+            },
+            {
+                "team": "IT'S COMEBACK TIME (Michael Nguyen)",
+                "finalrank": "9",
+                "record": "6-7",
+                "pf": "1325.8",
+                "pa": "1403"
+            },
+            {
+                "team": "Wait Till You See My Vick (Vijan Patel)",
+                "finalrank": "10",
+                "record": "4-9",
+                "pf": "1278.2",
+                "pa": "1250.4"
+            },
+            {
+                "team": "Jungle Fever (Elton Wong)",
+                "finalrank": "11",
+                "record": "4-9",
+                "pf": "1296.4",
+                "pa": "1403.2"
+            },
+            {
+                "team": "Show Me Your TDs (Samantha Kuhn)",
+                "finalrank": "12",
+                "record": "5-8",
+                "pf": "1124.2",
+                "pa": "1258.6"
+            }
+        ]
+    },
+    {
+        "year": "2011",
+        "teams": [
+            {
+                "team": "Team bui  (matt bui)",
+                "finalrank": "1",
+                "record": "8-5",
+                "pf": "1320",
+                "pa": "1246"
+            },
+            {
+                "team": "Raving Romophobes (Matt Leal)",
+                "finalrank": "2",
+                "record": "10-3",
+                "pf": "1495",
+                "pa": "1352"
+            },
+            {
+                "team": "What Would Jones-Drew? (Vijan Patel)",
+                "finalrank": "3",
+                "record": "8-5",
+                "pf": "1393",
+                "pa": "1263"
+            },
+            {
+                "team": "Team Klein  (jeff Klein)",
+                "finalrank": "4",
+                "record": "7-6",
+                "pf": "1390",
+                "pa": "1304"
+            },
+            {
+                "team": "IT'S COMEBACK TIME!!! (Michael Nguyen)",
+                "finalrank": "5",
+                "record": "8-5",
+                "pf": "1360",
+                "pa": "1258"
+            },
+            {
+                "team": "Megatron Be With You (Luan Nguyen)",
+                "finalrank": "6",
+                "record": "6-7",
+                "pf": "1227",
+                "pa": "1190"
+            },
+            {
+                "team": "Show Me Your TDs (Samantha Kuhn)",
+                "finalrank": "7",
+                "record": "5-8",
+                "pf": "1261",
+                "pa": "1338"
+            },
+            {
+                "team": "Team Wong  (Elton Wong)",
+                "finalrank": "8",
+                "record": "6-7",
+                "pf": "1317",
+                "pa": "1322"
+            },
+            {
+                "team": "lastinstandings 1stinyourhearts (Jon Thibeault)",
+                "finalrank": "9",
+                "record": "4-9",
+                "pf": "1257",
+                "pa": "1422"
+            },
+            {
+                "team": "Lil' Longhorns Aviles  (Edward Aviles)",
+                "finalrank": "10",
+                "record": "6-7",
+                "pf": "1152",
+                "pa": "1229"
+            },
+            {
+                "team": "Edward Forte Hands (Jeremy hsu)",
+                "finalrank": "11",
+                "record": "5-8",
+                "pf": "1228",
+                "pa": "1316"
+            },
+            {
+                "team": "Team Phuc (phuc nguyen)",
+                "finalrank": "12",
+                "record": "5-8",
+                "pf": "1145",
+                "pa": "1305"
+            }
+        ]
+    }
+][
+    {
+        "year": "2014",
+        "teams": [
+            {
+                "team": "Keep Calm With MEGATRON (Luan Nguyen)",
+                "finalrank": "1",
+                "record": "8-5",
+                "pf": "1381.2",
+                "pa": "1264"
+            },
+            {
+                "team": "Dome Baby (Jon Thibeault)",
+                "finalrank": "2",
+                "record": "11-2",
+                "pf": "1540.7",
+                "pa": "1227.3"
+            },
+            {
+                "team": "The Bus Driver (Ronny Kwon)",
+                "finalrank": "3",
+                "record": "8-5",
+                "pf": "1308.9",
+                "pa": "1246.1"
+            },
+            {
+                "team": "In School Suspension (jeff Klein, Ryan Gregurek)",
+                "finalrank": "4",
+                "record": "8-5",
+                "pf": "1308.1",
+                "pa": "1330.3"
+            },
+            {
+                "team": "2 Cds (billy juch)",
+                "finalrank": "5",
+                "record": "7-6",
+                "pf": "1397.6",
+                "pa": "1299.7"
+            },
+            {
+                "team": "Third Down For What (Jeremy hsu)",
+                "finalrank": "6",
+                "record": "7-6",
+                "pf": "1278.2",
+                "pa": "1278.9"
+            },
+            {
+                "team": "Miss Korea (Hal Peters)",
+                "finalrank": "7",
+                "record": "5-8",
+                "pf": "1325.8",
+                "pa": "1448.8"
+            },
+            {
+                "team": "YOU'RE STILL MY BITCH (Michael Nguyen)",
+                "finalrank": "8",
+                "record": "7-6",
+                "pf": "1356.2",
+                "pa": "1286.3"
+            },
+            {
+                "team": "IT'S COMEBACK TIME (Matthew Lum)",
+                "finalrank": "9",
+                "record": "6-7",
+                "pf": "1378",
+                "pa": "1249.6"
+            },
+            {
+                "team": "REGGIE ON MY BUSH (matt bui)",
+                "finalrank": "10",
+                "record": "1-12",
+                "pf": "1083.4",
+                "pa": "1403.8"
+            },
+            {
+                "team": "Show Me Your TDs (Samantha Kuhn)",
+                "finalrank": "11",
+                "record": "5-8",
+                "pf": "1159.4",
+                "pa": "1297.3"
+            },
+            {
+                "team": "Surrounded By Chinamen (Vijan Patel)",
+                "finalrank": "12",
+                "record": "5-8",
+                "pf": "1266.7",
+                "pa": "1452.2"
+            }
+        ]
+    },
+    {
+        "year": "2012",
+        "teams": [
+            {
+                "team": "Heis Manziel (Matt Leal)",
+                "finalrank": "1",
+                "record": "8-5",
+                "pf": "1497.6",
+                "pa": "1298.8"
+            },
+            {
+                "team": "Best things in  life are earned (billy juch)",
+                "finalrank": "2",
+                "record": "7-6",
+                "pf": "1317.4",
+                "pa": "1238.2"
+            },
+            {
+                "team": "Breesus Christ (Jeremy hsu)",
+                "finalrank": "3",
+                "record": "10-3",
+                "pf": "1506.2",
+                "pa": "1290.6"
+            },
+            {
+                "team": "The Real McCoy (Luan Nguyen)",
+                "finalrank": "4",
+                "record": "8-5",
+                "pf": "1407.2",
+                "pa": "1399.8"
+            },
+            {
+                "team": "DON'T NUGENT INSIDE OF ME (matt bui)",
+                "finalrank": "5",
+                "record": "7-6",
+                "pf": "1270.6",
+                "pa": "1442"
+            },
+            {
+                "team": "Arian Master Race (Jon Thibeault)",
+                "finalrank": "6",
+                "record": "7-6",
+                "pf": "1355.6",
+                "pa": "1260.2"
+            },
+            {
+                "team": "Nigga Please (jeff Klein)",
+                "finalrank": "7",
+                "record": "5-8",
+                "pf": "1221",
+                "pa": "1373.8"
+            },
+            {
+                "team": "Romosexual Tendencies (Hal Peters)",
+                "finalrank": "8",
+                "record": "7-6",
+                "pf": "1347.2",
+                "pa": "1328.8"
+            },
+            {
+                "team": "IT'S COMEBACK TIME (Michael Nguyen)",
+                "finalrank": "9",
+                "record": "6-7",
+                "pf": "1325.8",
+                "pa": "1403"
+            },
+            {
+                "team": "Wait Till You See My Vick (Vijan Patel)",
+                "finalrank": "10",
+                "record": "4-9",
+                "pf": "1278.2",
+                "pa": "1250.4"
+            },
+            {
+                "team": "Jungle Fever (Elton Wong)",
+                "finalrank": "11",
+                "record": "4-9",
+                "pf": "1296.4",
+                "pa": "1403.2"
+            },
+            {
+                "team": "Show Me Your TDs (Samantha Kuhn)",
+                "finalrank": "12",
+                "record": "5-8",
+                "pf": "1124.2",
+                "pa": "1258.6"
+            }
+        ]
+    },
+    {
+        "year": "2011",
+        "teams": [
+            {
+                "team": "Team bui  (matt bui)",
+                "finalrank": "1",
+                "record": "8-5",
+                "pf": "1320",
+                "pa": "1246"
+            },
+            {
+                "team": "Raving Romophobes (Matt Leal)",
+                "finalrank": "2",
+                "record": "10-3",
+                "pf": "1495",
+                "pa": "1352"
+            },
+            {
+                "team": "What Would Jones-Drew? (Vijan Patel)",
+                "finalrank": "3",
+                "record": "8-5",
+                "pf": "1393",
+                "pa": "1263"
+            },
+            {
+                "team": "Team Klein  (jeff Klein)",
+                "finalrank": "4",
+                "record": "7-6",
+                "pf": "1390",
+                "pa": "1304"
+            },
+            {
+                "team": "IT'S COMEBACK TIME!!! (Michael Nguyen)",
+                "finalrank": "5",
+                "record": "8-5",
+                "pf": "1360",
+                "pa": "1258"
+            },
+            {
+                "team": "Megatron Be With You (Luan Nguyen)",
+                "finalrank": "6",
+                "record": "6-7",
+                "pf": "1227",
+                "pa": "1190"
+            },
+            {
+                "team": "Show Me Your TDs (Samantha Kuhn)",
+                "finalrank": "7",
+                "record": "5-8",
+                "pf": "1261",
+                "pa": "1338"
+            },
+            {
+                "team": "Team Wong  (Elton Wong)",
+                "finalrank": "8",
+                "record": "6-7",
+                "pf": "1317",
+                "pa": "1322"
+            },
+            {
+                "team": "lastinstandings 1stinyourhearts (Jon Thibeault)",
+                "finalrank": "9",
+                "record": "4-9",
+                "pf": "1257",
+                "pa": "1422"
+            },
+            {
+                "team": "Lil' Longhorns Aviles  (Edward Aviles)",
+                "finalrank": "10",
+                "record": "6-7",
+                "pf": "1152",
+                "pa": "1229"
+            },
+            {
+                "team": "Edward Forte Hands (Jeremy hsu)",
+                "finalrank": "11",
+                "record": "5-8",
+                "pf": "1228",
+                "pa": "1316"
+            },
+            {
+                "team": "Team Phuc (phuc nguyen)",
+                "finalrank": "12",
+                "record": "5-8",
+                "pf": "1145",
+                "pa": "1305"
+            }
+        ]
+    },
+    {
+        "year": "2016",
+        "teams": [
+            {
+                "team": "Fantasy Football Guru (Luan Nguyen)",
+                "finalrank": "1",
+                "record": "7-6",
+                "pf": "1419.7",
+                "pa": "1290.1"
+            },
+            {
+                "team": "What Is Dead May Never Die (Jon Thibeault)",
+                "finalrank": "2",
+                "record": "7-6",
+                "pf": "1450.6",
+                "pa": "1393.1"
+            },
+            {
+                "team": "Bortles  Service (Zain Mithani)",
+                "finalrank": "3",
+                "record": "8-5",
+                "pf": "1289.5",
+                "pa": "1259.4"
+            },
+            {
+                "team": "DIGGS OUT FOR  HARAMBE (matt bui)",
+                "finalrank": "4",
+                "record": "10-3",
+                "pf": "1495.8",
+                "pa": "1356.2"
+            },
+            {
+                "team": "Miss Korea (Hal Peters)",
+                "finalrank": "5",
+                "record": "7-6",
+                "pf": "1303.1",
+                "pa": "1347.1"
+            },
+            {
+                "team": "Third Leg Greg (Jeremy hsu)",
+                "finalrank": "6",
+                "record": "7-6",
+                "pf": "1375.4",
+                "pa": "1298.2"
+            },
+            {
+                "team": "Teenage Mutant Ninja Allen (Pau Pau)",
+                "finalrank": "7",
+                "record": "7-6",
+                "pf": "1417.3",
+                "pa": "1374.6"
+            },
+            {
+                "team": "The Milquetoast Cucks Project (billy juch)",
+                "finalrank": "8",
+                "record": "3-10",
+                "pf": "1117.9",
+                "pa": "1320.1"
+            },
+            {
+                "team": "When I cum, I Philip Rivers (Ryan Gregurek)",
+                "finalrank": "9",
+                "record": "4-9",
+                "pf": "1308.7",
+                "pa": "1341.7"
+            },
+            {
+                "team": "HAAALLLPPP !!!!! (Michael Nguyen)",
+                "finalrank": "10",
+                "record": "7-6",
+                "pf": "1360.2",
+                "pa": "1364.4"
+            },
+            {
+                "team": "Mother of Broken TEs (Samantha Kuhn)",
+                "finalrank": "11",
+                "record": "5-8",
+                "pf": "1184.1",
+                "pa": "1270"
+            },
+            {
+                "team": "The Bus Driver (Ronny Kwon)",
+                "finalrank": "12",
+                "record": "6-7",
+                "pf": "1192",
+                "pa": "1299.5"
+            }
+        ]
+    }
+][
+    {
+        "year": "2014",
+        "teams": [
+            {
+                "team": "Keep Calm With MEGATRON (Luan Nguyen)",
+                "finalrank": "1",
+                "record": "8-5",
+                "pf": "1381.2",
+                "pa": "1264"
+            },
+            {
+                "team": "Dome Baby (Jon Thibeault)",
+                "finalrank": "2",
+                "record": "11-2",
+                "pf": "1540.7",
+                "pa": "1227.3"
+            },
+            {
+                "team": "The Bus Driver (Ronny Kwon)",
+                "finalrank": "3",
+                "record": "8-5",
+                "pf": "1308.9",
+                "pa": "1246.1"
+            },
+            {
+                "team": "In School Suspension (jeff Klein, Ryan Gregurek)",
+                "finalrank": "4",
+                "record": "8-5",
+                "pf": "1308.1",
+                "pa": "1330.3"
+            },
+            {
+                "team": "2 Cds (billy juch)",
+                "finalrank": "5",
+                "record": "7-6",
+                "pf": "1397.6",
+                "pa": "1299.7"
+            },
+            {
+                "team": "Third Down For What (Jeremy hsu)",
+                "finalrank": "6",
+                "record": "7-6",
+                "pf": "1278.2",
+                "pa": "1278.9"
+            },
+            {
+                "team": "Miss Korea (Hal Peters)",
+                "finalrank": "7",
+                "record": "5-8",
+                "pf": "1325.8",
+                "pa": "1448.8"
+            },
+            {
+                "team": "YOU'RE STILL MY BITCH (Michael Nguyen)",
+                "finalrank": "8",
+                "record": "7-6",
+                "pf": "1356.2",
+                "pa": "1286.3"
+            },
+            {
+                "team": "IT'S COMEBACK TIME (Matthew Lum)",
+                "finalrank": "9",
+                "record": "6-7",
+                "pf": "1378",
+                "pa": "1249.6"
+            },
+            {
+                "team": "REGGIE ON MY BUSH (matt bui)",
+                "finalrank": "10",
+                "record": "1-12",
+                "pf": "1083.4",
+                "pa": "1403.8"
+            },
+            {
+                "team": "Show Me Your TDs (Samantha Kuhn)",
+                "finalrank": "11",
+                "record": "5-8",
+                "pf": "1159.4",
+                "pa": "1297.3"
+            },
+            {
+                "team": "Surrounded By Chinamen (Vijan Patel)",
+                "finalrank": "12",
+                "record": "5-8",
+                "pf": "1266.7",
+                "pa": "1452.2"
+            }
+        ]
+    },
+    {
+        "year": "2012",
+        "teams": [
+            {
+                "team": "Heis Manziel (Matt Leal)",
+                "finalrank": "1",
+                "record": "8-5",
+                "pf": "1497.6",
+                "pa": "1298.8"
+            },
+            {
+                "team": "Best things in  life are earned (billy juch)",
+                "finalrank": "2",
+                "record": "7-6",
+                "pf": "1317.4",
+                "pa": "1238.2"
+            },
+            {
+                "team": "Breesus Christ (Jeremy hsu)",
+                "finalrank": "3",
+                "record": "10-3",
+                "pf": "1506.2",
+                "pa": "1290.6"
+            },
+            {
+                "team": "The Real McCoy (Luan Nguyen)",
+                "finalrank": "4",
+                "record": "8-5",
+                "pf": "1407.2",
+                "pa": "1399.8"
+            },
+            {
+                "team": "DON'T NUGENT INSIDE OF ME (matt bui)",
+                "finalrank": "5",
+                "record": "7-6",
+                "pf": "1270.6",
+                "pa": "1442"
+            },
+            {
+                "team": "Arian Master Race (Jon Thibeault)",
+                "finalrank": "6",
+                "record": "7-6",
+                "pf": "1355.6",
+                "pa": "1260.2"
+            },
+            {
+                "team": "Nigga Please (jeff Klein)",
+                "finalrank": "7",
+                "record": "5-8",
+                "pf": "1221",
+                "pa": "1373.8"
+            },
+            {
+                "team": "Romosexual Tendencies (Hal Peters)",
+                "finalrank": "8",
+                "record": "7-6",
+                "pf": "1347.2",
+                "pa": "1328.8"
+            },
+            {
+                "team": "IT'S COMEBACK TIME (Michael Nguyen)",
+                "finalrank": "9",
+                "record": "6-7",
+                "pf": "1325.8",
+                "pa": "1403"
+            },
+            {
+                "team": "Wait Till You See My Vick (Vijan Patel)",
+                "finalrank": "10",
+                "record": "4-9",
+                "pf": "1278.2",
+                "pa": "1250.4"
+            },
+            {
+                "team": "Jungle Fever (Elton Wong)",
+                "finalrank": "11",
+                "record": "4-9",
+                "pf": "1296.4",
+                "pa": "1403.2"
+            },
+            {
+                "team": "Show Me Your TDs (Samantha Kuhn)",
+                "finalrank": "12",
+                "record": "5-8",
+                "pf": "1124.2",
+                "pa": "1258.6"
+            }
+        ]
+    },
+    {
+        "year": "2011",
+        "teams": [
+            {
+                "team": "Team bui  (matt bui)",
+                "finalrank": "1",
+                "record": "8-5",
+                "pf": "1320",
+                "pa": "1246"
+            },
+            {
+                "team": "Raving Romophobes (Matt Leal)",
+                "finalrank": "2",
+                "record": "10-3",
+                "pf": "1495",
+                "pa": "1352"
+            },
+            {
+                "team": "What Would Jones-Drew? (Vijan Patel)",
+                "finalrank": "3",
+                "record": "8-5",
+                "pf": "1393",
+                "pa": "1263"
+            },
+            {
+                "team": "Team Klein  (jeff Klein)",
+                "finalrank": "4",
+                "record": "7-6",
+                "pf": "1390",
+                "pa": "1304"
+            },
+            {
+                "team": "IT'S COMEBACK TIME!!! (Michael Nguyen)",
+                "finalrank": "5",
+                "record": "8-5",
+                "pf": "1360",
+                "pa": "1258"
+            },
+            {
+                "team": "Megatron Be With You (Luan Nguyen)",
+                "finalrank": "6",
+                "record": "6-7",
+                "pf": "1227",
+                "pa": "1190"
+            },
+            {
+                "team": "Show Me Your TDs (Samantha Kuhn)",
+                "finalrank": "7",
+                "record": "5-8",
+                "pf": "1261",
+                "pa": "1338"
+            },
+            {
+                "team": "Team Wong  (Elton Wong)",
+                "finalrank": "8",
+                "record": "6-7",
+                "pf": "1317",
+                "pa": "1322"
+            },
+            {
+                "team": "lastinstandings 1stinyourhearts (Jon Thibeault)",
+                "finalrank": "9",
+                "record": "4-9",
+                "pf": "1257",
+                "pa": "1422"
+            },
+            {
+                "team": "Lil' Longhorns Aviles  (Edward Aviles)",
+                "finalrank": "10",
+                "record": "6-7",
+                "pf": "1152",
+                "pa": "1229"
+            },
+            {
+                "team": "Edward Forte Hands (Jeremy hsu)",
+                "finalrank": "11",
+                "record": "5-8",
+                "pf": "1228",
+                "pa": "1316"
+            },
+            {
+                "team": "Team Phuc (phuc nguyen)",
+                "finalrank": "12",
+                "record": "5-8",
+                "pf": "1145",
+                "pa": "1305"
+            }
+        ]
+    },
+    {
+        "year": "2016",
+        "teams": [
+            {
+                "team": "Fantasy Football Guru (Luan Nguyen)",
+                "finalrank": "1",
+                "record": "7-6",
+                "pf": "1419.7",
+                "pa": "1290.1"
+            },
+            {
+                "team": "What Is Dead May Never Die (Jon Thibeault)",
+                "finalrank": "2",
+                "record": "7-6",
+                "pf": "1450.6",
+                "pa": "1393.1"
+            },
+            {
+                "team": "Bortles  Service (Zain Mithani)",
+                "finalrank": "3",
+                "record": "8-5",
+                "pf": "1289.5",
+                "pa": "1259.4"
+            },
+            {
+                "team": "DIGGS OUT FOR  HARAMBE (matt bui)",
+                "finalrank": "4",
+                "record": "10-3",
+                "pf": "1495.8",
+                "pa": "1356.2"
+            },
+            {
+                "team": "Miss Korea (Hal Peters)",
+                "finalrank": "5",
+                "record": "7-6",
+                "pf": "1303.1",
+                "pa": "1347.1"
+            },
+            {
+                "team": "Third Leg Greg (Jeremy hsu)",
+                "finalrank": "6",
+                "record": "7-6",
+                "pf": "1375.4",
+                "pa": "1298.2"
+            },
+            {
+                "team": "Teenage Mutant Ninja Allen (Pau Pau)",
+                "finalrank": "7",
+                "record": "7-6",
+                "pf": "1417.3",
+                "pa": "1374.6"
+            },
+            {
+                "team": "The Milquetoast Cucks Project (billy juch)",
+                "finalrank": "8",
+                "record": "3-10",
+                "pf": "1117.9",
+                "pa": "1320.1"
+            },
+            {
+                "team": "When I cum, I Philip Rivers (Ryan Gregurek)",
+                "finalrank": "9",
+                "record": "4-9",
+                "pf": "1308.7",
+                "pa": "1341.7"
+            },
+            {
+                "team": "HAAALLLPPP !!!!! (Michael Nguyen)",
+                "finalrank": "10",
+                "record": "7-6",
+                "pf": "1360.2",
+                "pa": "1364.4"
+            },
+            {
+                "team": "Mother of Broken TEs (Samantha Kuhn)",
+                "finalrank": "11",
+                "record": "5-8",
+                "pf": "1184.1",
+                "pa": "1270"
+            },
+            {
+                "team": "The Bus Driver (Ronny Kwon)",
+                "finalrank": "12",
+                "record": "6-7",
+                "pf": "1192",
+                "pa": "1299.5"
+            }
+        ]
+    },
+    {
+        "year": "2015",
+        "teams": [
+            {
+                "team": "The Boys Are Back In Town (Jon Thibeault)",
+                "finalrank": "1",
+                "record": "9-4",
+                "pf": "1458.5",
+                "pa": "1327.5"
+            },
+            {
+                "team": "The Bus Driver (Ronny Kwon)",
+                "finalrank": "2",
+                "record": "8-5",
+                "pf": "1304.2",
+                "pa": "1202.1"
+            },
+            {
+                "team": "Bigger Ni993rs (billy juch)",
+                "finalrank": "3",
+                "record": "8-5",
+                "pf": "1262.6",
+                "pa": "1219.7"
+            },
+            {
+                "team": "Show Me Your TDs (Samantha Kuhn)",
+                "finalrank": "4",
+                "record": "9-4",
+                "pf": "1233.2",
+                "pa": "1229.6"
+            },
+            {
+                "team": "Enhance ENHANCE (Jeremy hsu)",
+                "finalrank": "5",
+                "record": "6-7",
+                "pf": "1309.9",
+                "pa": "1313.8"
+            },
+            {
+                "team": "BOOZ RADLEY'S REVENGE (matt bui)",
+                "finalrank": "6",
+                "record": "7-6",
+                "pf": "1432.9",
+                "pa": "1446.2"
+            },
+            {
+                "team": "HAAALLLPPP !!!!! (Michael Nguyen)",
+                "finalrank": "7",
+                "record": "5-8",
+                "pf": "1278.3",
+                "pa": "1348.7"
+            },
+            {
+                "team": "Golden Taint (Ryan Gregurek)",
+                "finalrank": "8",
+                "record": "7-6",
+                "pf": "1414.8",
+                "pa": "1283.7"
+            },
+            {
+                "team": "Fantasy Football Guru (Luan Nguyen)",
+                "finalrank": "9",
+                "record": "6-7",
+                "pf": "1251",
+                "pa": "1270.9"
+            },
+            {
+                "team": "Miss Korea (Hal Peters)",
+                "finalrank": "10",
+                "record": "4-9",
+                "pf": "1181.8",
+                "pa": "1260.7"
+            },
+            {
+                "team": "Darrius Heyward-Bae (Vijan Patel)",
+                "finalrank": "11",
+                "record": "5-8",
+                "pf": "1298.8",
+                "pa": "1376.4"
+            },
+            {
+                "team": "WITTEN MITTENS (Tammy Vo)",
+                "finalrank": "12",
+                "record": "4-9",
+                "pf": "1242",
+                "pa": "1388.8"
+            }
+        ]
+    }
+][
+    {
+        "year": "2014",
+        "teams": [
+            {
+                "team": "Keep Calm With MEGATRON (Luan Nguyen)",
+                "finalrank": "1",
+                "record": "8-5",
+                "pf": "1381.2",
+                "pa": "1264"
+            },
+            {
+                "team": "Dome Baby (Jon Thibeault)",
+                "finalrank": "2",
+                "record": "11-2",
+                "pf": "1540.7",
+                "pa": "1227.3"
+            },
+            {
+                "team": "The Bus Driver (Ronny Kwon)",
+                "finalrank": "3",
+                "record": "8-5",
+                "pf": "1308.9",
+                "pa": "1246.1"
+            },
+            {
+                "team": "In School Suspension (jeff Klein, Ryan Gregurek)",
+                "finalrank": "4",
+                "record": "8-5",
+                "pf": "1308.1",
+                "pa": "1330.3"
+            },
+            {
+                "team": "2 Cds (billy juch)",
+                "finalrank": "5",
+                "record": "7-6",
+                "pf": "1397.6",
+                "pa": "1299.7"
+            },
+            {
+                "team": "Third Down For What (Jeremy hsu)",
+                "finalrank": "6",
+                "record": "7-6",
+                "pf": "1278.2",
+                "pa": "1278.9"
+            },
+            {
+                "team": "Miss Korea (Hal Peters)",
+                "finalrank": "7",
+                "record": "5-8",
+                "pf": "1325.8",
+                "pa": "1448.8"
+            },
+            {
+                "team": "YOU'RE STILL MY BITCH (Michael Nguyen)",
+                "finalrank": "8",
+                "record": "7-6",
+                "pf": "1356.2",
+                "pa": "1286.3"
+            },
+            {
+                "team": "IT'S COMEBACK TIME (Matthew Lum)",
+                "finalrank": "9",
+                "record": "6-7",
+                "pf": "1378",
+                "pa": "1249.6"
+            },
+            {
+                "team": "REGGIE ON MY BUSH (matt bui)",
+                "finalrank": "10",
+                "record": "1-12",
+                "pf": "1083.4",
+                "pa": "1403.8"
+            },
+            {
+                "team": "Show Me Your TDs (Samantha Kuhn)",
+                "finalrank": "11",
+                "record": "5-8",
+                "pf": "1159.4",
+                "pa": "1297.3"
+            },
+            {
+                "team": "Surrounded By Chinamen (Vijan Patel)",
+                "finalrank": "12",
+                "record": "5-8",
+                "pf": "1266.7",
+                "pa": "1452.2"
+            }
+        ]
+    },
+    {
+        "year": "2012",
+        "teams": [
+            {
+                "team": "Heis Manziel (Matt Leal)",
+                "finalrank": "1",
+                "record": "8-5",
+                "pf": "1497.6",
+                "pa": "1298.8"
+            },
+            {
+                "team": "Best things in  life are earned (billy juch)",
+                "finalrank": "2",
+                "record": "7-6",
+                "pf": "1317.4",
+                "pa": "1238.2"
+            },
+            {
+                "team": "Breesus Christ (Jeremy hsu)",
+                "finalrank": "3",
+                "record": "10-3",
+                "pf": "1506.2",
+                "pa": "1290.6"
+            },
+            {
+                "team": "The Real McCoy (Luan Nguyen)",
+                "finalrank": "4",
+                "record": "8-5",
+                "pf": "1407.2",
+                "pa": "1399.8"
+            },
+            {
+                "team": "DON'T NUGENT INSIDE OF ME (matt bui)",
+                "finalrank": "5",
+                "record": "7-6",
+                "pf": "1270.6",
+                "pa": "1442"
+            },
+            {
+                "team": "Arian Master Race (Jon Thibeault)",
+                "finalrank": "6",
+                "record": "7-6",
+                "pf": "1355.6",
+                "pa": "1260.2"
+            },
+            {
+                "team": "Nigga Please (jeff Klein)",
+                "finalrank": "7",
+                "record": "5-8",
+                "pf": "1221",
+                "pa": "1373.8"
+            },
+            {
+                "team": "Romosexual Tendencies (Hal Peters)",
+                "finalrank": "8",
+                "record": "7-6",
+                "pf": "1347.2",
+                "pa": "1328.8"
+            },
+            {
+                "team": "IT'S COMEBACK TIME (Michael Nguyen)",
+                "finalrank": "9",
+                "record": "6-7",
+                "pf": "1325.8",
+                "pa": "1403"
+            },
+            {
+                "team": "Wait Till You See My Vick (Vijan Patel)",
+                "finalrank": "10",
+                "record": "4-9",
+                "pf": "1278.2",
+                "pa": "1250.4"
+            },
+            {
+                "team": "Jungle Fever (Elton Wong)",
+                "finalrank": "11",
+                "record": "4-9",
+                "pf": "1296.4",
+                "pa": "1403.2"
+            },
+            {
+                "team": "Show Me Your TDs (Samantha Kuhn)",
+                "finalrank": "12",
+                "record": "5-8",
+                "pf": "1124.2",
+                "pa": "1258.6"
+            }
+        ]
+    },
+    {
+        "year": "2011",
+        "teams": [
+            {
+                "team": "Team bui  (matt bui)",
+                "finalrank": "1",
+                "record": "8-5",
+                "pf": "1320",
+                "pa": "1246"
+            },
+            {
+                "team": "Raving Romophobes (Matt Leal)",
+                "finalrank": "2",
+                "record": "10-3",
+                "pf": "1495",
+                "pa": "1352"
+            },
+            {
+                "team": "What Would Jones-Drew? (Vijan Patel)",
+                "finalrank": "3",
+                "record": "8-5",
+                "pf": "1393",
+                "pa": "1263"
+            },
+            {
+                "team": "Team Klein  (jeff Klein)",
+                "finalrank": "4",
+                "record": "7-6",
+                "pf": "1390",
+                "pa": "1304"
+            },
+            {
+                "team": "IT'S COMEBACK TIME!!! (Michael Nguyen)",
+                "finalrank": "5",
+                "record": "8-5",
+                "pf": "1360",
+                "pa": "1258"
+            },
+            {
+                "team": "Megatron Be With You (Luan Nguyen)",
+                "finalrank": "6",
+                "record": "6-7",
+                "pf": "1227",
+                "pa": "1190"
+            },
+            {
+                "team": "Show Me Your TDs (Samantha Kuhn)",
+                "finalrank": "7",
+                "record": "5-8",
+                "pf": "1261",
+                "pa": "1338"
+            },
+            {
+                "team": "Team Wong  (Elton Wong)",
+                "finalrank": "8",
+                "record": "6-7",
+                "pf": "1317",
+                "pa": "1322"
+            },
+            {
+                "team": "lastinstandings 1stinyourhearts (Jon Thibeault)",
+                "finalrank": "9",
+                "record": "4-9",
+                "pf": "1257",
+                "pa": "1422"
+            },
+            {
+                "team": "Lil' Longhorns Aviles  (Edward Aviles)",
+                "finalrank": "10",
+                "record": "6-7",
+                "pf": "1152",
+                "pa": "1229"
+            },
+            {
+                "team": "Edward Forte Hands (Jeremy hsu)",
+                "finalrank": "11",
+                "record": "5-8",
+                "pf": "1228",
+                "pa": "1316"
+            },
+            {
+                "team": "Team Phuc (phuc nguyen)",
+                "finalrank": "12",
+                "record": "5-8",
+                "pf": "1145",
+                "pa": "1305"
+            }
+        ]
+    },
+    {
+        "year": "2016",
+        "teams": [
+            {
+                "team": "Fantasy Football Guru (Luan Nguyen)",
+                "finalrank": "1",
+                "record": "7-6",
+                "pf": "1419.7",
+                "pa": "1290.1"
+            },
+            {
+                "team": "What Is Dead May Never Die (Jon Thibeault)",
+                "finalrank": "2",
+                "record": "7-6",
+                "pf": "1450.6",
+                "pa": "1393.1"
+            },
+            {
+                "team": "Bortles  Service (Zain Mithani)",
+                "finalrank": "3",
+                "record": "8-5",
+                "pf": "1289.5",
+                "pa": "1259.4"
+            },
+            {
+                "team": "DIGGS OUT FOR  HARAMBE (matt bui)",
+                "finalrank": "4",
+                "record": "10-3",
+                "pf": "1495.8",
+                "pa": "1356.2"
+            },
+            {
+                "team": "Miss Korea (Hal Peters)",
+                "finalrank": "5",
+                "record": "7-6",
+                "pf": "1303.1",
+                "pa": "1347.1"
+            },
+            {
+                "team": "Third Leg Greg (Jeremy hsu)",
+                "finalrank": "6",
+                "record": "7-6",
+                "pf": "1375.4",
+                "pa": "1298.2"
+            },
+            {
+                "team": "Teenage Mutant Ninja Allen (Pau Pau)",
+                "finalrank": "7",
+                "record": "7-6",
+                "pf": "1417.3",
+                "pa": "1374.6"
+            },
+            {
+                "team": "The Milquetoast Cucks Project (billy juch)",
+                "finalrank": "8",
+                "record": "3-10",
+                "pf": "1117.9",
+                "pa": "1320.1"
+            },
+            {
+                "team": "When I cum, I Philip Rivers (Ryan Gregurek)",
+                "finalrank": "9",
+                "record": "4-9",
+                "pf": "1308.7",
+                "pa": "1341.7"
+            },
+            {
+                "team": "HAAALLLPPP !!!!! (Michael Nguyen)",
+                "finalrank": "10",
+                "record": "7-6",
+                "pf": "1360.2",
+                "pa": "1364.4"
+            },
+            {
+                "team": "Mother of Broken TEs (Samantha Kuhn)",
+                "finalrank": "11",
+                "record": "5-8",
+                "pf": "1184.1",
+                "pa": "1270"
+            },
+            {
+                "team": "The Bus Driver (Ronny Kwon)",
+                "finalrank": "12",
+                "record": "6-7",
+                "pf": "1192",
+                "pa": "1299.5"
+            }
+        ]
+    },
+    {
+        "year": "2015",
+        "teams": [
+            {
+                "team": "The Boys Are Back In Town (Jon Thibeault)",
+                "finalrank": "1",
+                "record": "9-4",
+                "pf": "1458.5",
+                "pa": "1327.5"
+            },
+            {
+                "team": "The Bus Driver (Ronny Kwon)",
+                "finalrank": "2",
+                "record": "8-5",
+                "pf": "1304.2",
+                "pa": "1202.1"
+            },
+            {
+                "team": "Bigger Ni993rs (billy juch)",
+                "finalrank": "3",
+                "record": "8-5",
+                "pf": "1262.6",
+                "pa": "1219.7"
+            },
+            {
+                "team": "Show Me Your TDs (Samantha Kuhn)",
+                "finalrank": "4",
+                "record": "9-4",
+                "pf": "1233.2",
+                "pa": "1229.6"
+            },
+            {
+                "team": "Enhance ENHANCE (Jeremy hsu)",
+                "finalrank": "5",
+                "record": "6-7",
+                "pf": "1309.9",
+                "pa": "1313.8"
+            },
+            {
+                "team": "BOOZ RADLEY'S REVENGE (matt bui)",
+                "finalrank": "6",
+                "record": "7-6",
+                "pf": "1432.9",
+                "pa": "1446.2"
+            },
+            {
+                "team": "HAAALLLPPP !!!!! (Michael Nguyen)",
+                "finalrank": "7",
+                "record": "5-8",
+                "pf": "1278.3",
+                "pa": "1348.7"
+            },
+            {
+                "team": "Golden Taint (Ryan Gregurek)",
+                "finalrank": "8",
+                "record": "7-6",
+                "pf": "1414.8",
+                "pa": "1283.7"
+            },
+            {
+                "team": "Fantasy Football Guru (Luan Nguyen)",
+                "finalrank": "9",
+                "record": "6-7",
+                "pf": "1251",
+                "pa": "1270.9"
+            },
+            {
+                "team": "Miss Korea (Hal Peters)",
+                "finalrank": "10",
+                "record": "4-9",
+                "pf": "1181.8",
+                "pa": "1260.7"
+            },
+            {
+                "team": "Darrius Heyward-Bae (Vijan Patel)",
+                "finalrank": "11",
+                "record": "5-8",
+                "pf": "1298.8",
+                "pa": "1376.4"
+            },
+            {
+                "team": "WITTEN MITTENS (Tammy Vo)",
+                "finalrank": "12",
+                "record": "4-9",
+                "pf": "1242",
+                "pa": "1388.8"
+            }
+        ]
+    },
+    {
+        "year": "2013",
+        "teams": [
+            {
+                "team": "Newton's Laws of Motion (jeff Klein, Ryan Gregurek)",
+                "finalrank": "1",
+                "record": "9-4",
+                "pf": "1376.8",
+                "pa": "1229.6"
+            },
+            {
+                "team": "Still Not Chinese (Vijan Patel)",
+                "finalrank": "2",
+                "record": "9-4",
+                "pf": "1250.2",
+                "pa": "1130"
+            },
+            {
+                "team": "YOU'RE STILL MY BITCH (Michael Nguyen)",
+                "finalrank": "3",
+                "record": "7-6",
+                "pf": "1354.8",
+                "pa": "1245.6"
+            },
+            {
+                "team": "Ice Cream  Taint Job (billy juch)",
+                "finalrank": "4",
+                "record": "7-6",
+                "pf": "1292.8",
+                "pa": "1247"
+            },
+            {
+                "team": "JEEP POOPER (Hal Peters)",
+                "finalrank": "5",
+                "record": "7-6",
+                "pf": "1187.6",
+                "pa": "1221"
+            },
+            {
+                "team": "Gronkey Kong (Jon Thibeault)",
+                "finalrank": "6",
+                "record": "7-6",
+                "pf": "1322.2",
+                "pa": "1245.6"
+            },
+            {
+                "team": "The Bus Driver (Ronny Kwon)",
+                "finalrank": "7",
+                "record": "6-7",
+                "pf": "1285.6",
+                "pa": "1291.2"
+            },
+            {
+                "team": "Show Me Your TDs (Samantha Kuhn)",
+                "finalrank": "8",
+                "record": "7-6",
+                "pf": "1289.4",
+                "pa": "1284.6"
+            },
+            {
+                "team": "IT'S COMEBACK TIME (Elton Wong)",
+                "finalrank": "9",
+                "record": "1-12",
+                "pf": "1117.8",
+                "pa": "1444"
+            },
+            {
+                "team": "Robert Griffindor (Jeremy hsu)",
+                "finalrank": "10",
+                "record": "7-6",
+                "pf": "1272",
+                "pa": "1296.8"
+            },
+            {
+                "team": "REGGIE ON MY BUSH (matt bui)",
+                "finalrank": "11",
+                "record": "6-7",
+                "pf": "1241.2",
+                "pa": "1255.2"
+            },
+            {
+                "team": "Prater the Gods (Luan Nguyen)",
+                "finalrank": "12",
+                "record": "5-8",
+                "pf": "1204",
+                "pa": "1303.8"
+            }
+        ]
+    }
+]
